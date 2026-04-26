@@ -1,12 +1,19 @@
 # 🎨 Animated Buttons Styles
 
-A beautiful collection of **modern, animated button styles** built with pure **HTML and CSS**. These ready-to-use button components can be easily integrated into any website to enhance user interaction and visual appeal.
+```
+                    U D I T
+                  P R A K A S H
+                Y A D A V
+              💻 P R O G R A M M E R
+```
+
+A beautiful collection of **modern, animated button styles** built with pure **HTML and CSS**. These ready-to-use button components can be easily integrated into any website to enhance user interaction.
 
 ---
 
 ## 📋 About This Project
 
-This project showcases various animated button styles with smooth transitions, hover effects, and interactive animations. Each button style is crafted to provide an enhanced user experience while maintaining clean, efficient code.
+This project showcases various animated button styles with smooth transitions, hover effects, and interactive animations. Each button style is crafted to provide an enhanced user experience while maintaining clean, readable code.
 
 **Perfect for:**
 - Web developers looking for button component inspiration
@@ -139,9 +146,10 @@ This project is open source and available for personal and commercial use.
 
 ---
 
-## 👤 Author
+## 👤 Author & Programmer
 
-**Udit Prakash Yadav**  
+**Udit Prakash Yadav** 💻  
+Full Stack Developer & UI/UX Enthusiast  
 GitHub: [@uditprakashyadav-7393](https://github.com/uditprakashyadav-7393)
 
 ---
@@ -173,4 +181,4 @@ This project is great for learning:
 
 ---
 
-**Made with ❤️ for web developers and designers**
+**Made with ❤️ by Udit Prakash Yadav | Programmer & Web Developer**
